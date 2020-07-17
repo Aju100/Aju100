@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Aju100/Aju100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec.Thanks for dropping by!
 
-Here are some ideas to get you started:
+🌱 I'v blogged here 1 year https://csaju.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: Python, CloudNative technologies, Django, React, Web security
+
+- 🌱 I’m currently learning Django and React
+- 👯 I’m looking to collaborate on opensource projects
+
+📫 How to reach me: https://www.linkedin.com/in/aju-tamang/
+
+😄 Pronouns: he/him/his
+
+⚡ Fun fact: I love eating foods.
