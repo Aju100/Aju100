@@ -14,3 +14,5 @@
 😄 Pronouns: he/him/his
 
 ⚡ Fun fact: I love eating foods.
+
+![Aju's github stats](https://github-readme-stats.vercel.app/api?username=Aju100&show_icons=true&hide_border=true)
