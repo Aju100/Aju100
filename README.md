@@ -15,4 +15,10 @@
 
 ⚡ Fun fact: I love eating foods.
 
-![Aju's github stats](https://github-readme-stats.vercel.app/api?username=Aju100&show_icons=true&hide_border=true)
+
+<a href="https://csaju.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aju100&show_icons=true&theme=radical" alt="Aju's github stats" />
+</a>
+<a href="https://csaju.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aju100&layout=compact&theme=radical" />
+</a>
