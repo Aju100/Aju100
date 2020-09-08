@@ -6,7 +6,7 @@
 
 💬 Ask me about: Python, CloudNative technologies, Django, React, Web security
 
-- 🌱 I’m currently learning Django and React
+- 🌱 I’m currently learning Django and React with devOps practises and specializing in AWS cloud platform.
 - 👯 I’m looking to collaborate on opensource projects
 
 📫 How to reach me: https://www.linkedin.com/in/aju-tamang/
