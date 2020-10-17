@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning Django and React with devOps practises and specializing in AWS cloud platform.
 - 👯 I’m looking to collaborate on opensource projects
 
+<img src="https://github-profile-trophy.vercel.app/?username=aju100&theme=dracula&column=3&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)(https://github.com/ryo-ma/github-profile-trophy (https://github.com/ryo-ma/github-profile-trophy)">
+
 📫 How to reach me: https://www.linkedin.com/in/aju-tamang/
 
 😄 Pronouns: he/him/his
