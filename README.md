@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I am partime cloud engineer at techkraft. Thanks for dropping by!
+🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I am partime Cloud Developer Apprentice at techkraft. Thanks for dropping by!
 
 🌱 I'v blogged here 1 year https://csaju.com/. <br>
 
@@ -33,7 +33,7 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{aju100}/count.svg)
 
-📫 How to reach me: https://www.linkedin.com/in/aju-tamang/
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aju-tamang/)
 
 😄 Pronouns: he/him/his
 
