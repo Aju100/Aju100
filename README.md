@@ -1,11 +1,20 @@
 ### Hi there 👋
 
-🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I am partime Cloud Developer Apprentice at techkraft. Thanks for dropping by!
+🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I am cloud support engineer(Part time) at [SupplyIn](https://www.supply-inn.com/). Thanks for dropping by!
 
-🌱 I'v blogged here 1 year https://csaju.com/. <br>
+
+
+### Experience
+
+- Cloud Developer Apprentice at [techkraft](https://techkraftinc.com/)   
+- Software Engineer Trainee at [Insight Workshop](https://insightworkshop.io/)
+
+🌱 I'v blogged here 1 year https://csaju.com/blog. <br>
 
 <h3>😀 Here are my recent posts.</h3>
 
+- [Blogging for software developers](https://csaju.com/blog/blogging-for-software-developers/)
+- [Let's deploy wordpress](https://csaju.com/blog/let's-deploy-wordpress/)
 - [Django on Azure: Learn to deploy and scale 100% Free](https://www.csaju.com/django-on-azure-learn-to-deploy-and-scale-100-free/)
 - [We are organizing Awesome Hacktoberfest 2020 😀](https://www.csaju.com/we-are-organizing-awesome-hacktoberfest-2020-%f0%9f%98%80/)
 - [5 things you should know about DHCP](https://www.csaju.com/5-things-you-should-know-about-dhcp/)
@@ -21,6 +30,7 @@
 
 <h3>😀 My Recent tech talks</h3>
 
+- [Organize and lead the Hacktoberfest in Nepal](https://csaju.com/blog/we-are-organizing-awesome-hacktoberfest/)
 - [Message broker with Python 101](https://github.com/Aju100/my-tech-talks/blob/master/pythonusergroupnepal/Message%20broker%20with%20Python%20101.pdf) at Python User Group Nepal Meetup
 - [Getting started with Hugo](https://github.com/Aju100/my-tech-talks/blob/master/Sagarmatha%20College%20of%20Science%20and%20Technology/gettingstartedwithhugo.pdf) at Sagarmatha College of Science and Technology
 - [Git and Github Funshop](#) at Bhaktapur Multiple Campus
