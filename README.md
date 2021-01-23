@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I am cloud support engineer(Part time) at [SupplyIn](https://www.supply-inn.com/). Thanks for dropping by!
+🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I love helping students to clear doubts on CS. Thanks for dropping by!
 
 
 
