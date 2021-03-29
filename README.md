@@ -2,11 +2,9 @@
 
 🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I love helping students to clear doubts on CS. Thanks for dropping by!
 
-
-
 ### Experience
 
-- Cloud Developer Apprentice at [techkraft](https://techkraftinc.com/)   
+- Cloud Developer Apprentice at [techkraft](https://techkraftinc.com/)
 - Software Engineer Trainee at [Insight Workshop](https://insightworkshop.io/)
 
 🌱 I'v blogged here 1.5 year https://csaju.com/blog. <br>
@@ -20,12 +18,10 @@
 - [TryHackme OWASP Top 10 Writeup](https://www.csaju.com/tryhackme-owasp-top-10-writeup/)
 - [Python Multithreading Misconception](https://www.csaju.com/python-multithreading-misconception/)
 
-
 💬 Ask me about: Multicloud platforms, System design, , CloudNative technologies, Go Python, Django
 
 - 🌱 I’m currently learning algo-dsa, Django and React with devOps practises and specializing in AWS and Azure cloud platform.
 - 👯 I’m looking to collaborate on opensource projects
-
 
 <h3>😀 My Recent tech talks</h3>
 
@@ -34,7 +30,9 @@
 - [Getting started with Hugo](https://github.com/Aju100/my-tech-talks/blob/master/Sagarmatha%20College%20of%20Science%20and%20Technology/gettingstartedwithhugo.pdf) at Sagarmatha College of Science and Technology
 - [Git and Github Funshop](#) at Bhaktapur Multiple Campus
 - [Web Development Career](#) at Sushma Godawari College
-<a href="https://csaju.com">
+  <a href="https://csaju.com">
+
+<img align="center" width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=aju100&theme=synthwave" />
 
 **Visitors Count**
 
