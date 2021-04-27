@@ -11,6 +11,7 @@
 
 <h3>😀 Here are my recent posts.</h3>
 
+- [Ultimate resources for computer science student](https://csaju.com/blog/ultimate-resources-for-computer-science-student/)
 - [Let's run KML presentation tool inside a container](https://csaju.com/blog/dockerize-kml-presentation-tool/)
 - [Blogging for software developers](https://csaju.com/blog/blogging-for-software-developers/)
 - [Let's deploy wordpress](https://csaju.com/blog/let's-deploy-wordpress/)
