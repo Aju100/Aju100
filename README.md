@@ -1,13 +1,30 @@
 ### Hi there 👋
 
-🔭 I'm Aju. I'm freshman CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I love helping students to clear doubts on CS. Thanks for dropping by!
+<p>
+  <a href="https://github.com/Aju100">
+    <img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" height="25">
+  </a>
+  <a href="https://www.twitter.com/pylang2">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  </a>
+  <a href="https://www.linkedin.com/in/aju-tamang">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.instagram.com/csaju101/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a>
+</p>
+
+🔭 I'm Aju. I'm sophomore CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I love helping students to clear doubts on CS. Thanks for dropping by!
+
+![Profile](https://gpvc.arturio.dev/aju100)
 
 ### Experience
 
 - Former Cloud Developer Apprentice at [techkraft](https://techkraftinc.com/)
 - Former Software Engineer Trainee at [Insight Workshop](https://insightworkshop.io/)
 
-🌱 I'v blogged here 1.10 year https://csaju.com/blog. <br>
+🌱 I'v blogged here 2 years ➡️ https://csaju.com/blog <br>
 
 <h3>😀 Here are my recent posts.</h3>
 
@@ -29,6 +46,7 @@
 💬 Ask me about: Multicloud platforms, System design, Python, Django
 
 - 🌱 I’m currently learning everything.
+- 📝 [Resume](https://drive.google.com/drive/folders/1R_2fMYvAjag99CLSlBqAVBuIyB25uAh7?usp=sharing)
 
 <h3>😀 My Recent tech talks</h3>
 
@@ -41,12 +59,12 @@
 
 <img align="center" width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=aju100&theme=synthwave" />
 
-**Visitors Count**
-
-![VisitorCount](https://profile-counter.glitch.me/{aju100}/count.svg)
-
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aju-tamang/)
 
 😄 Pronouns: he/him/his
 
-⚡ Fun fact: I love eating foods.
+⚡ Fun fact: I love momo 🥟🥟🥟.
+
+If you would like to support my work in writing blog and open-source, maybe consider a donation for me, it would help me to pay my college fee 🥺👉👈.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A24OO17)
