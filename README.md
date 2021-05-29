@@ -15,7 +15,7 @@
   </a>
 </p>
 
-🔭 I'm Aju. I'm sophomore CS student from Nepal who is interested in Dev + Infosec. Apart from Academic, I love helping students to clear doubts on CS. Thanks for dropping by!
+🔭 I'm Aju. I'm sophomore CS student from Nepal who is interested in DevSecOps. Apart from Academic, I love helping students to clear doubts on CS. Thanks for dropping by!
 
 ![Profile](https://gpvc.arturio.dev/aju100)
 
@@ -28,6 +28,7 @@
 
 <h3>😀 Here are my recent posts.</h3>
 
+- [How to write a good commit message](https://csaju.com/blog/how-to-write-a-good-commit-message/)
 - [Ultimate resources for computer science student](https://csaju.com/blog/ultimate-resources-for-computer-science-student/)
 - [Let's run KML presentation tool inside a container](https://csaju.com/blog/dockerize-kml-presentation-tool/)
 - [Blogging for software developers](https://csaju.com/blog/blogging-for-software-developers/)
@@ -41,9 +42,10 @@
 
 - <b>[VulWebaju](https://github.com/Aju100/VulWebaju)</b> : script that automates setting up your pen-testing environment for learning purposes. It helps you to install common vulnerable applications.
 - <b>[Asciju](https://github.com/Aju100/asciju)</b> : python package that converts image to ascii
+- <b>[Django Mentorship](https://github.com/Aju100/Django-Backend-mentorship)</b> : Mentoring studentes through opensource project to learn backend development.
 - <b> DjVulweb</b> : upcoming opensource project, Django vulnerable web application based on OWASP Top 10 and guides for Django developer.
 
-💬 Ask me about: Multicloud platforms, System design, Python, Django
+💬 Ask me about: System design, Historical places of Nepal, Python, Opensource stuff
 
 - 🌱 I’m currently learning everything.
 - 📝 [Resume](https://drive.google.com/drive/folders/1R_2fMYvAjag99CLSlBqAVBuIyB25uAh7?usp=sharing)
