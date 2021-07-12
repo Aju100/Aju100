@@ -40,8 +40,7 @@
 
 💬 Ask me about: System design, Historical places of Nepal, Python, Opensource stuff
 
-- 🌱 I’m currently learning everything.
-- 📝 [Resume](https://drive.google.com/drive/folders/1R_2fMYvAjag99CLSlBqAVBuIyB25uAh7?usp=sharing)
+- 🌱 I’m currently exploring.
 
 <h3>😀 My Recent tech talks</h3>
 
